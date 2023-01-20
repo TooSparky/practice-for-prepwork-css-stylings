@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 10;
+    font-family: Serif;
+    padding: 100px;
+    margin: 100px;
+    font-weight: 5;
+    text-decoration: none;
+    color: none;
+    background-color: none;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 5;
+    font-family: Roboto Condensed;
+    padding: 5;
+    margin: 50px;
+    font-weight: 2;
+    color: none;
+    background-color: none;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: Serif;
+    font-size: 20;
+    padding: 5px;
+    margin: 10px;
+    color: none;
+    background-color: none;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://assets-global.website-files.com/5dcc7f8c449e597ed83356b8/603820afd31232aab368ea6f_New%20Red-logo-emblem.webp);
+    background-color: gray;
+    height: 200px;
+    width: 200px;
 }
